@@ -111,6 +111,8 @@ The client will run on http://localhost:5000 and open automatically in your brow
 }
 ```
 
+## Database
+![DataBase](https://github.com/krishna8464/brainwired_backend/assets/82109628/e7128c3f-7578-4e77-9c3a-55e164c51840)
 
 
 
